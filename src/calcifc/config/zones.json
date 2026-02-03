@@ -1,0 +1,17 @@
+{
+  "FR-A": {
+    "label": "France Zone A",
+    "snow_kN_m2": 0.45,
+    "wind_kN_m2": 0.5
+  },
+  "FR-B": {
+    "label": "France Zone B",
+    "snow_kN_m2": 0.65,
+    "wind_kN_m2": 0.6
+  },
+  "FR-C": {
+    "label": "France Zone C",
+    "snow_kN_m2": 0.9,
+    "wind_kN_m2": 0.7
+  }
+}
